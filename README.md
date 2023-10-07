@@ -1,5 +1,12 @@
 # Arco Uno Basic Template
 
+https://www.xfyun.cn/services/voicedictation
+https://www.xfyun.cn/document/error-code
+https://www.xfyun.cn/doc/asr/voicedictation/API.html#%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E
+https://www.xfyun.cn/services/voicedictation
+https://github.com/MuGuiLin/VoiceDictation
+https://juejin.cn/post/7247687957400944701?searchId=20231007090554B1EE4F156F7DE7160E6C
+
 ## Features
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite 3](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
