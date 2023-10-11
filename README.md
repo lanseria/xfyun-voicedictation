@@ -1,4 +1,4 @@
-# Arco Uno Basic Template
+# 讯飞云实时语音识别 WebAPI Demo Vue3
 
 https://www.xfyun.cn/services/voicedictation
 https://www.xfyun.cn/document/error-code

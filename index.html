@@ -4,21 +4,12 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Arco Uno Basic</title>
+    <title>讯飞云实时语音识别 WebAPI</title>
     <meta name="description" content="Opinionated Vite Starter Template">
   </head>
-  <body class="font-sans dark:text-white dark:bg-hex-121212">
+  <body class="font-sans">
     <div id="app"></div>
-    <script>
-      (function () {
-        const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
-        const setting = localStorage.getItem('color-schema') || 'auto'
-        if (setting === 'dark' || (prefersDark && setting !== 'light'))
-          document.documentElement.classList.toggle('dark', true)
-      })()
-    </script>
     <script type="module" src="/src/main.ts"></script>
-    <script src="/js/crypto-js.min.js"></script>
-    <script src="/js/voice.js"></script>
+    <script src="/index.umd.js"></script>
   </body>
 </html>
